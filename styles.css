@@ -185,6 +185,18 @@ footer {
     cursor: pointer;
 }
 
+.fa-square-facebook,
+.fa-twitter,
+.fa-instagram {
+    color: hsba(271, 21%, 38%, 1);
+}
+
+.fa-square-facebook:hover,
+.fa-twitter:hover,
+.fa-instagram:hover {
+    color: #24053E !important;
+}
+
 @media (max-width: 1024px) {
 
     h1 {
@@ -211,7 +223,7 @@ footer {
     }
 
     .numbers {
-        margin: 0 2rem 0 0;
+        margin-right: 2rem;
     }
 
     .founder-img {
