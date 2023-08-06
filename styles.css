@@ -126,8 +126,11 @@ h1 span {
   margin-bottom: 2.5rem;
 }
 
-h3 {
+.testimonial-h2 {
   margin-bottom: 1.5rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #000;
 }
 
 .testimonial-p {
@@ -212,7 +215,7 @@ footer {
     font-size: 4rem;
   }
 
-  h3 {
+  .testimonial-h2 {
     padding-top: 4.5rem;
   }
 
@@ -275,7 +278,7 @@ footer {
     font-size: 3rem;
   }
 
-  h3 {
+  .testimonial-h2 {
     padding-top: 0;
   }
 
